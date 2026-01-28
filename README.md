@@ -17,11 +17,13 @@ I specialize in **frontend architecture, system design, performance optimization
 - 🔎 Always aiming to be a **trusted engineer** teams can rely on
 
 ---
+## 📸 My programming YouTube channel
+https://www.youtube.com/@dev.sashko
+
 
 ## ✍️ Publications
 
 - [My offer cost me $134. Here is how](https://medium.com/@heiets/my-offer-cost-me-134-here-is-how-ea5b6fecb807?source=user_profile_page---------0-------------3ee2cc1e2344----------------------)
-- [My programming YouTube channel](https://www.youtube.com/@dev.sashko)
 - [How to leave the company after 4 years of work and not leave the team with nothing](https://dou.ua/forums/topic/36193/)
 - [Migrating from Backbone.js to React.js without losing it](https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe)
 
