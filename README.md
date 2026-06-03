@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oleksandr Heiets
 
-Senior Software Engineer (Front-end) with **9+ years of experience** building and scaling high-impact web products.  
+Senior Software Engineer (Front-end) with **10+ years of experience** building and scaling high-impact web products.  
 Ex-Fiverr, ex-Preply. Currently working on product engineering in Warsaw 🇵🇱
 
 I specialize in **frontend architecture, system design, performance optimization**, and **mentoring engineers** to senior level.
