@@ -18,7 +18,8 @@ I specialize in **frontend architecture, system design, performance optimization
 
 ---
 ## 📸 My programming YouTube channel
-https://www.youtube.com/@dev.sashko
+- https://www.youtube.com/@AlexHeiets (EN)
+- https://www.youtube.com/@dev.sashko (UA)
 
 
 ## ✍️ Publications
